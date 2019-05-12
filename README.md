@@ -1,5 +1,5 @@
 # Education
-Directory with lerning examples and programms.
+Directory with lerning examples and programms in Java for Stepic online course.
 
 # [Notes](https://github.com/b4w/Education/tree/master/Notes "Notes")
 Some notes for online cources and more. 
